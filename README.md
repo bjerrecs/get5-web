@@ -1,21 +1,6 @@
 # get5-web
 
-[![Build Status](https://img.shields.io/travis/phlexplexico/get5-web/development.svg?label=development)](https://travis-ci.org/PhlexPlexico/get5-web)
-[![Build Status](https://img.shields.io/travis/phlexplexico/get5-web/master.svg?label=master)](https://travis-ci.org/PhlexPlexico/get5-web)
-[![GitHub Downloads](https://img.shields.io/github/downloads/phlexplexico/get5-web/total.svg?label=Downloads)](https://github.com/phlexplexico/get5-web/releases/latest)
----
-
-**Status: NOT Supported - End of Life Jan. 2020**
-
-_As of January 1st, 2020, this application will no longer be supported with any updates. Issues will be created to help assist setup and point out any bugs. If someone would like to take over, please make a fork and make some PRs to fix any issues. If you would even like, merge them back here with a link to your fork in the README. Thank you everyone for finding this web panel, and I hope you still find use for this old technology. Some new development is coming down the pipe elsewhere, which I hope will help other developers make their own implementations of get5-web._
-
-This is a web panel meant to be used in conjunction with the [get5](https://github.com/splewis/get5) CS:GO server plugin. It provides a more convenient way of managing matches and match servers. **This webpanel is intended for competitive 5v5 leagues and scrims, and nothing more.**
-
-This fork of get5 introduces a few new features that are used within get5 already, but were not originally ported over to the experimental web-panel. I've tried to make the web panel a little bit more secure (storing passwords, etc), and more handy for people to organize matches (Seasons and Leaderboards). Right now it's considered complete as it fits my needs and small-scale application. If you have any feature suggestions, *please create an issue*. It's extremely unlikely I'll put any more work into it, but pull requests are always welcome with features, provided they've been tested and pass CI!
-
-**WARNING: THIS BUILD OF THE WEB-PANEL USES MODIFIED GET5-APISTATS MATERIAL. I DO NOT TAKE RESPONSIBILITY FOR ANY DATA LOSS, MISUSE, ETC. THAT THIS WEBAPP MAY INCUR.**
-
-_IF YOU HAVE ANY ISSUES WITH THE WEBPANEL OR THE API_STATS PLUGIN, **PLEASE REPORT IT HERE.**_
+**Status: No support will be given! Private project**
 
 ## How to use it:
 
