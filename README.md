@@ -2,6 +2,13 @@
 
 **Status: No support will be given! Private project**
 
+## Current ideas to add to the project
+1. Ease of use on tablets.
+
+2. Nice layout/ Theme (with custom LEAGUEOPS logos)
+
+3. Auto install with Ansible
+
 ## How to use it:
 
 1. Download the new get5_apistats.smx from the [releases](https://github.com/PhlexPlexico/get5-web/releases) page.
